@@ -118,7 +118,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: "aaronstpierre/ajsp-blog" # <gh-username>/<repo>
-    repo_id: "R_kgDOL7vcTw"
+    repo_id: "R_kgDOL7t4VQ"
     category: "Announcements"
     category_id: "DIC_kwDOL7t4Vc4CfXsq"
     mapping: "pathname" # optional, default to 'pathname'
